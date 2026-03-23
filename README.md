@@ -1,5 +1,5 @@
 # Digital-literary-Project-1
-# 📊 Task 1 – Digital Literacy Awareness Infographic
+# Task 1 – Digital Literacy Awareness Infographic
 
 ## 👤 Student Details
 - **Name:** Vethra M 
@@ -9,14 +9,14 @@
 
 ---
 
-## 📌 Task Overview
+##  Task Overview
 This task is part of the Digital Literacy project where I created a **one-page infographic** to spread awareness about digital literacy among students.
 
 The goal was to present important digital concepts in a **clear, visually engaging, and easy-to-understand format**.
 
 ---
 
-## 🎯 Topics Covered
+##  Topics Covered
 The infographic covers the following key areas:
 
 1. **What is Digital Literacy**
@@ -35,7 +35,7 @@ The infographic covers the following key areas:
 
 ---
 
-## 🛠️ Tool Used
+##  Tool Used
 - **Canva** (for designing the infographic)
 
 ---
