@@ -40,4 +40,5 @@ The infographic covers the following key areas:
 
 ---
 [View Infographics](Task1/Infographics.pdf)
+in case the link shows "Unable to render code block" due to internet issue, please download the raw file and check.Thank you
 
