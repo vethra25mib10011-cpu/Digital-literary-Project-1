@@ -7,10 +7,14 @@ I sincerely value the quality of my work and would greatly appreciate a short ex
 I apologize for any inconvenience caused and assure you that I will submit the work within the extended timeline.
 Thank you for your understanding and consideration.                                  
                                               
+                                              
+</p>                                              
+Yours sincerely,                     
+</p>
+Vethra M                                                         
 
-              Yours sincerely,                     
-Vethra M                               
-25MIB10011                     
+
+25MIB10011   
 [C13]
 
 ---------------------------------------------------------------------------
@@ -24,7 +28,11 @@ I am Vethra M, a first-year B.Tech student at VIT Bhopal University. I am writin
 I am particularly interested in gaining practical exposure in the field of Bioinformatics. I am eager to learn, develop my skills, and contribute meaningfully to your team.
 I would be grateful if you could provide information regarding any available internship opportunities and the application process.
 Thank you for your time and consideration. I look forward to your response.                                                           
-                Yours sincerely,                         
-Vethra M                                   
+</p>
+Yours sincerely,                         
+</p>
+Vethra M     
+
+
 25MIB10011                                               
 vethra.25mib10011@vitbhopal.ac.in
