@@ -1,122 +1,108 @@
-# Digital-literary-Project-1
-# Task 1 – Digital Literacy Awareness Infographic
+ #  Digital Literacy Project
+This Digital Literacy Project aims to develop essential online skills including digital communication, cybersecurity awareness, professional presence, and responsible internet usage. Through this project, I explored practical tools and real-world scenarios that help students use digital platforms effectively and safely. The project consists of five tasks that demonstrate the application of digital literacy concepts in everyday academic and professional contexts.
+
+------------------
 
 ## 👤 Student Details
-- **Name:** Vethra M 
-- **Registration Number:** 25MIB10011
-- **Course:** CSE0001 – Digital Literacy  
-- **University:** VIT Bhopal  
+- *Name:* Vethra M 
+- *Registration Number:* 25MIB10011
+- *Course:* CSE0001 – Digital Literacy  
+- *University:* VIT Bhopal  
 
 ---
 
-##  Task Overview
-This task is part of the Digital Literacy project where I created a **one-page infographic** to spread awareness about digital literacy among students.
-The goal was to present important digital concepts in a **clear, visually engaging, and easy-to-understand format**.
+##  Task 1 – Digital Literacy Infographic
+In this task, I designed a Digital Literacy Awareness infographic using Canva. I focused on presenting the concept of digital literacy in a simple and structured way so that it is easy to understand for students.
+
+The infographic includes:
+- Meaning and importance of digital literacy  
+- Useful digital tools for students (productivity and learning tools)  
+- Safe internet practices such as password security and avoiding suspicious links  
+
+I ensured that the design was visually appealing with proper layout, icons, and minimal text to improve readability. This task helped me understand how to communicate information effectively through visuals.
+
+ [View Infographic].(task-1
+*If the preview does not load, please download the file to view it.*
 
 ---
 
-##  Topics Covered
-The infographic covers the following key areas:
+##  Task 2 – Building a Student Digital Portfolio
+In this task, I created my digital portfolio by setting up profiles on professional platforms. These platforms are important for showcasing skills, networking, and future career opportunities.
 
-1. **What is Digital Literacy**
-   - Understanding digital tools and information
-   - Responsible and ethical use of technology
+-  **GitHub:** [Add GitHub Link]  
+-  **LinkedIn:** [Add LinkedIn Link]  
+-  **ResearchGate:** [Add ResearchGate Link]  
 
-2. **Useful Digital Tools for Students**
-   - Productivity tools (Google Docs, Notion)
-   - Learning platforms (Coursera, Khan Academy)
-   - Research tools (Google Scholar)
-
-3. **Safe Internet Practices**
-   - Strong passwords and 2-factor authentication
-   - Avoiding phishing and suspicious links
-   - Protecting personal information online
+Through this task, I learned how to present myself professionally online and understood the importance of maintaining an updated digital profile.
 
 ---
 
-##  Tool Used
-- **Canva** (for designing the infographic)
+## Task 3 – Coding & Collaboration Platforms
+In this task, I explored platforms used for coding practice and collaboration.
 
----
-[View Infographics](Task1/Infographics.pdf)
-in case the link shows "Unable to render code block" due to internet issue, please download the raw file and check.Thank you
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+###  Part A – HackerRank
+I created an account on HackerRank and solved a beginner-level problem. This helped me understand basic coding logic, improve problem-solving skills, and become familiar with coding platforms.
 
-# Task 2 – Student Digital Portfolio
----
-## Task Overview
-This task focuses on building a **professional digital portfolio** by creating and organizing profiles on important online platforms. These platforms help in showcasing skills, networking, and preparing for academic and career opportunities.
-
----
-##  Platforms Created / Updated
-###  GitHub
-- Created a GitHub profile  
-- Added a **Profile README** with:
-  - Name, branch, and year  
-  - Learning goals and interests  
-- Used to store and manage project work  
-
-🔗 Profile Link: [Add your GitHub profile link]
-
----
-###  LinkedIn
-- Created/updated LinkedIn profile  
-- Added:
-  - Education details (VIT Bhopal, degree, expected graduation year)  
-  - Basic professional profile information  
-🔗 Profile Link: www.linkedin.com/in/vethra-m-9b87a63b9
-
----
-###  HackerRank
-- Created a HackerRank account  
-- Explored coding challenges and problem-solving environment  
-- Practised beginner-level problems  
-
-🔗 Profile Link: [Add your HackerRank profile link]
+**View HackerRank Work:** [Add Link]
 
 ---
 
-##  Screenshots
-All profile screenshots are stored in the following folder:
+###  Part B – Google Form
+I created a Google Form titled “Digital Literacy Awareness Quiz” consisting of five questions, including both multiple-choice and short-answer types. I also viewed responses using Google Sheets.
 
-------------------------------------------------------------------------------------------------------------------
-# 💻 Task 3 – Coding & Collaboration Platforms
+**View Google Form:** [Add Link]
 
-## 👤 Student Details
-- **Name:** [Your Name]  
-- **Registration Number:** [Your Reg No.]  
-- **Course:** CSE0001 – Digital Literacy  
-- **University:** VIT Bhopal  
+This task helped me understand how collaboration tools can be used to collect data, conduct quizzes, and analyze responses efficiently.
 
 ---
 
-## 📌 Task Overview
-This task focuses on exploring **coding practice platforms** and **cloud-based collaboration tools**. It helps in developing problem-solving skills and understanding how digital tools can be used for academic purposes.
+##  Task 4 – Professional Email & Etiquette Guide
+In this task, I learned how to communicate professionally in a digital environment.
+
+###  Part A – Emails
+I wrote two formal emails:
+- Requesting an extension for assignment submission  
+- Expressing interest in a summer internship opportunity  
+
+Both emails follow proper structure, tone, and formatting.
+
+**View Emails:** [Add File Link]
 
 ---
 
-## 📊 Part A– Google Form (Collaboration Tool)
+### Part B – Social Media Checklist
+I created a Social Media Do’s and Don’ts checklist to promote responsible and safe online behavior among students.
 
-- Created a **Digital Literacy Awareness Quiz** using Google Forms  
-- Included:
-  - 5 questions (MCQ + short answer)  
-  - Questions based on digital literacy concepts  
-- Responses were automatically collected in a linked Google Sheet  
+**View Checklist:** [Add File Link]
 
-🔗 Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfPNoPXsbVa0Xefs1RzLWjnNrj--ZynZi7n469W7h7ICsF-Ew/viewform?usp=header
-
---------
-
-## ⚙️ Part B – Coding Practice (HackerRank)
-
-- Created an account on **HackerRank**  
-- Attempted a beginner-level problem (e.g., *Solve Me First*)  
-- Learned basic problem-solving and coding interface  
-
-🔗 Profile Link: [Add your HackerRank link]
+This task helped me understand the importance of clarity, tone, and professionalism in communication.
 
 ---
-## 📸 Screenshots
-All screenshots are available in:
 
----------------------------------------------
+##  Task 5 – Cybercrime Awareness & Prevention
+In this task, I studied cybercrime by focusing on **UPI / Online Payment Fraud**, which is a common issue in digital transactions.
+
+I explained:
+- What the fraud is  
+- Step-by-step process of how it happens  
+- Who is commonly targeted  
+- Its financial and emotional consequences  
+
+ **View Case Study:** [Add File Link]
+
+---
+
+###  Prevention Checklist
+I created a “Stay Safe Online” checklist with practical and actionable tips for students. It includes:
+- General online safety practices  
+- UPI and financial safety precautions  
+- Cybercrime reporting information (cybercrime.gov.in and helpline 1930)  
+
+ **View Checklist:** [Add File Link]
+
+This task increased my awareness about online risks and taught me how to prevent cyber fraud.
+
+---
+
+##  Conclusion
+This project enhanced my understanding of digital literacy by combining theory with practical application. It helped me develop skills in online safety, communication, and professional presence, which are essential for academic success and future career growth.
