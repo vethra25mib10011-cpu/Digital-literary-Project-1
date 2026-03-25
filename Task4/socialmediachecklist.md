@@ -1,18 +1,39 @@
-## 📋 Part B – Social Media Do’s & Don’ts
+##  Social Media Do’s & Don’ts
 
-### ✅ Do’s
-- Maintain a professional profile (appropriate username & profile picture)
-- Think before posting-ensure content is respectful and meaningful
-- Respect others online  
-- Protect personal information  
-- Use strong privacy settings  
+###  Do’s
+-  **Maintain a professional profile**
+  - Use appropriate profile picture and bio  
+  - Keep your information accurate  
 
-### ❌ Don’ts
- -Don’t post offensive, abusive, or inappropriate content
- -Don’t share fake news or unverified information
- -Don’t overshare personal details (address, phone number, etc.)
--Don’t engage in cyberbullying or online arguments
-- Don’t click on suspicious links or unknown messages
+-  **Think before posting**
+  - Ensure your content is respectful and meaningful  
+  - Consider long-term impact  
+
+-  **Respect others online**
+  - Be polite in comments and messages  
+  - Support positive interactions  
+
+-  **Protect personal information**
+  - Avoid sharing phone numbers, address, or passwords  
+  - Use privacy settings effectively  
+
+-  **Verify information before sharing**
+  - Check sources to avoid spreading misinformation  
 
 ---
 
+###  Don’ts
+- **Avoid posting offensive content**
+  - No hate speech, abusive language, or inappropriate media  
+
+-  **Don’t share fake or unverified information**
+  - Avoid forwarding rumors or misleading content  
+
+-  **Do not engage in cyberbullying**
+  - Never harass, threaten, or insult others online  
+
+-  **Avoid oversharing personal details**
+  - Do not post sensitive or private information  
+
+-  **Don’t misuse digital platforms**
+  - Avoid spamming, hacking, or unethical activities  
