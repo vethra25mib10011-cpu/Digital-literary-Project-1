@@ -95,7 +95,19 @@ This task focuses on exploring **coding practice platforms** and **cloud-based c
 
 ---
 
-## ⚙️ Part A – Coding Practice (HackerRank)
+## 📊 Part A– Google Form (Collaboration Tool)
+
+- Created a **Digital Literacy Awareness Quiz** using Google Forms  
+- Included:
+  - 5 questions (MCQ + short answer)  
+  - Questions based on digital literacy concepts  
+- Responses were automatically collected in a linked Google Sheet  
+
+🔗 Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSfPNoPXsbVa0Xefs1RzLWjnNrj--ZynZi7n469W7h7ICsF-Ew/viewform?usp=header
+
+--------
+
+## ⚙️ Part B – Coding Practice (HackerRank)
 
 - Created an account on **HackerRank**  
 - Attempted a beginner-level problem (e.g., *Solve Me First*)  
@@ -104,19 +116,7 @@ This task focuses on exploring **coding practice platforms** and **cloud-based c
 🔗 Profile Link: [Add your HackerRank link]
 
 ---
-
-## 📊 Part B – Google Form (Collaboration Tool)
-
-- Created a **Digital Literacy Awareness Quiz** using Google Forms  
-- Included:
-  - 5 questions (MCQ + short answer)  
-  - Questions based on digital literacy concepts  
-- Responses were automatically collected in a linked Google Sheet  
-
-🔗 Google Form Link: [Add your form link]
-
----
-
 ## 📸 Screenshots
 All screenshots are available in:
 
+---------------------------------------------
