@@ -9,7 +9,39 @@ This Digital Literacy Project aims to develop essential online skills including 
 - *Course:* CSE0001 – Digital Literacy  
 - *University:* VIT Bhopal  
 
----
+##  Repository Structure
+digital-literacy-project/                                          
+├── README.md 
+
+├── report/                        
+│ └── Project_Report.pdf                                                        
+
+├── task-1-presentation/                                                                                       
+│ └── infographic.png                                                                          
+
+├── task-2-portfolio/                                                                             
+│ ├── github-profile.png                                                                    
+│ ├── linkedin-profile.png                                                                                                                                       │ 
+
+
+└── researchgate-profile.png    
+
+
+├── task-3-platforms/                                                                
+│ ├── hackerrank-proof.png                                                                                                                 
+│ ├── google-form.png                                                                                                                                                       
+│                                                                         
+
+├── task-4-email-etiquette/                                                                                                             
+│ ├── email-extension.txt
+│ ├── email-internship.txt                                                                                                         
+│ └── social-media-checklist.md                                                                                                    
+
+
+└── task-5-cybercrime/                                                                               
+├── casestudy.md                                                                                      
+└── prevention-checklist.md                                                                                                
+
 
 ##  Task 1 – Digital Literacy Infographic
 In this task, I designed a Digital Literacy Awareness infographic using Canva. I focused on presenting the concept of digital literacy in a simple and structured way so that it is easy to understand for students.
@@ -50,7 +82,7 @@ In this task, I explored both coding practice and collaboration tools to improve
 
 **Hacker Rank** https://www.hackerrank.com/profile/vethra_25mib1001
 
----
+
 
 ###  Part B – Google Form
 
@@ -80,7 +112,7 @@ Both emails follow proper structure, tone, and formatting.
 
 [View Emails](task-4-email-etiquette/email.md)
 
----
+
 
 ### Part B – Social Media Checklist
 - Created a Do’s and Don’ts checklist for responsible social media use  
@@ -109,7 +141,7 @@ I explained:
 
  [View Case Study](task-5-cybercrime/casestudy.md)
 
----
+
 
 ### Part B Prevention Checklist
 I created a “Stay Safe Online” checklist with practical and actionable tips for students. It includes:
