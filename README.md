@@ -21,7 +21,7 @@ The infographic includes:
 
 I ensured that the design was visually appealing with proper layout, icons, and minimal text to improve readability. This task helped me understand how to communicate information effectively through visuals.
 
- [View Infographic].(task-1
+ [View Infographic].(task-1-presentation/
 *If the preview does not load, please download the file to view it.*
 
 ---
