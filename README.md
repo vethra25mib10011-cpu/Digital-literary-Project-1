@@ -42,12 +42,21 @@ Through this task, I learned how to present myself professionally online and und
 In this task, I explored platforms used for coding practice and collaboration.
 
 ###  Part A – HackerRank
-I created an account on HackerRank and solved a beginner-level problem. This helped me understand basic coding logic, improve problem-solving skills, and become familiar with coding platforms.
+In this task, I explored both coding practice and collaboration tools to improve my technical and digital skills.
+- Created a HackerRank account and explored the platform interface  
+- Practised a beginner-level coding problem  
+- Improved logical thinking and problem-solving skills  
+- Understood how coding platforms are used for skill development and placements  
 
 ---
 
 ###  Part B – Google Form
-I created a Google Form titled “Digital Literacy Awareness Quiz” consisting of five questions, including both multiple-choice and short-answer types. I also viewed responses using Google Sheets.
+
+- Created a Digital Literacy Awareness Quiz with 5 questions  
+- Included both multiple-choice and short-answer questions  
+- Collected responses and analyzed them using Google Sheets  
+- Learned how to design surveys and gather data efficiently  
+
 
 [View Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfPNoPXsbVa0Xefs1RzLWjnNrj--ZynZi7n469W7h7ICsF-Ew/viewform?usp=header)
 
@@ -59,9 +68,11 @@ This task helped me understand how collaboration tools can be used to collect da
 In this task, I learned how to communicate professionally in a digital environment.
 
 ###  Part A – Emails
-I wrote two formal emails:
-- Requesting an extension for assignment submission  
-- Expressing interest in a summer internship opportunity  
+- Wrote two formal emails with proper structure  
+- Used clear and relevant subject lines  
+- Maintained a polite and professional tone throughout  
+- Included proper greeting, body, and closing  
+- Avoided informal language and grammatical errors  
 
 Both emails follow proper structure, tone, and formatting.
 
@@ -70,7 +81,13 @@ Both emails follow proper structure, tone, and formatting.
 ---
 
 ### Part B – Social Media Checklist
-I created a Social Media Do’s and Don’ts checklist to promote responsible and safe online behavior among students.
+- Created a Do’s and Don’ts checklist for responsible social media use  
+- Focused on digital professionalism and safe online behavior  
+- Included points on privacy, respectful communication, and content sharing  
+- Highlighted the importance of maintaining a positive digital footprint  
+
+🔗 **View Checklist:** [Add File Link]
+
 
 [View Checklist](task-4-email-etiquette/social-media-checklist.md)
 
@@ -81,6 +98,7 @@ This task helped me understand the importance of clarity, tone, and professional
 ##  Task 5 – Cybercrime Awareness & Prevention
 In this task, I studied cybercrime by focusing on **UPI / Online Payment Fraud**, which is a common issue in digital transactions.
 
+### Part A CaseStudy
 I explained:
 - What the fraud is  
 - Step-by-step process of how it happens  
@@ -91,7 +109,7 @@ I explained:
 
 ---
 
-###  Prevention Checklist
+### Part B Prevention Checklist
 I created a “Stay Safe Online” checklist with practical and actionable tips for students. It includes:
 - General online safety practices  
 - UPI and financial safety precautions  
