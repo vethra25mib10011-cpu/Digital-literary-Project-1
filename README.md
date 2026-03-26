@@ -160,3 +160,10 @@ This task increased my awareness about online risks and taught me how to prevent
 
 ##  Conclusion
 This project enhanced my understanding of digital literacy by combining theory with practical application. It helped me develop skills in online safety, communication, and professional presence, which are essential for academic success and future career growth.
+
+Gained a strong understanding of **digital literacy concepts and tools**  
+- Learned how to build and maintain a **professional online presence**  
+-  Improved skills in **coding, collaboration, and digital communication**  
+-  Developed awareness about **cybersecurity risks and prevention methods**  
+-  Practiced **responsible and ethical use of digital platforms**  
+
