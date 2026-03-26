@@ -72,7 +72,8 @@ Both emails follow proper structure, tone, and formatting.
 ### Part B – Social Media Checklist
 I created a Social Media Do’s and Don’ts checklist to promote responsible and safe online behavior among students.
 
-[View Checklist](task-4-email-etiquette/socialmedia-checklist
+[View Checklist](task-4-email-etiquette/social-media-checklist.md)
+
 This task helped me understand the importance of clarity, tone, and professionalism in communication.
 
 ---
@@ -86,7 +87,7 @@ I explained:
 - Who is commonly targeted  
 - Its financial and emotional consequences  
 
- **View Case Study:** [Add File Link]
+ [View Case Study](task-5-cybercrime/casestudy.md)
 
 ---
 
@@ -96,7 +97,7 @@ I created a “Stay Safe Online” checklist with practical and actionable tips 
 - UPI and financial safety precautions  
 - Cybercrime reporting information (cybercrime.gov.in and helpline 1930)  
 
- **View Checklist:** [Add File Link]
+ [View Checklist](task-5-cybecrime/prevention-checklist.md)
 
 This task increased my awareness about online risks and taught me how to prevent cyber fraud.
 
