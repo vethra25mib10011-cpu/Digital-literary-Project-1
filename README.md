@@ -44,14 +44,12 @@ In this task, I explored platforms used for coding practice and collaboration.
 ###  Part A – HackerRank
 I created an account on HackerRank and solved a beginner-level problem. This helped me understand basic coding logic, improve problem-solving skills, and become familiar with coding platforms.
 
-**View HackerRank Work:** [Add Link]
-
 ---
 
 ###  Part B – Google Form
 I created a Google Form titled “Digital Literacy Awareness Quiz” consisting of five questions, including both multiple-choice and short-answer types. I also viewed responses using Google Sheets.
 
-**View Google Form:** [Add Link]
+[View Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfPNoPXsbVa0Xefs1RzLWjnNrj--ZynZi7n469W7h7ICsF-Ew/viewform?usp=header)
 
 This task helped me understand how collaboration tools can be used to collect data, conduct quizzes, and analyze responses efficiently.
 
@@ -67,15 +65,14 @@ I wrote two formal emails:
 
 Both emails follow proper structure, tone, and formatting.
 
-**View Emails:** [Add File Link]
+[View Emails](task-4-email-etiquette/email.md)
 
 ---
 
 ### Part B – Social Media Checklist
 I created a Social Media Do’s and Don’ts checklist to promote responsible and safe online behavior among students.
 
-**View Checklist:** [Add File Link]
-
+[View Checklist](task-4-email-etiquette/socialmedia-checklist
 This task helped me understand the importance of clarity, tone, and professionalism in communication.
 
 ---
