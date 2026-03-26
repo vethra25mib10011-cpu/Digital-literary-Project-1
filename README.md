@@ -30,9 +30,9 @@ I ensured that the design was visually appealing with proper layout, icons, and 
 ##  Task 2 – Building a Student Digital Portfolio
 In this task, I created my digital portfolio by setting up profiles on professional platforms. These platforms are important for showcasing skills, networking, and future career opportunities.
 
--  **GitHub:** [Add GitHub Link]  
--  **LinkedIn:** [Add LinkedIn Link]  
--  **ResearchGate:** [Add ResearchGate Link]  
+-  **GitHub:** https://github.com/vethra25mib10011-cpu 
+-  **LinkedIn:** www.linkedin.com/in/vethra-m-9b87a63b9
+-  **ResearchGate:** https://www.researchgate.net/profile/Vethra-m?ev=hdr_xprf
 
 Through this task, I learned how to present myself professionally online and understood the importance of maintaining an updated digital profile.
 
