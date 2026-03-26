@@ -13,7 +13,7 @@ This Digital Literacy Project aims to develop essential online skills including 
 
 ##  Repository Structure
 digital-literacy-project/                                          
-├── README.md 
+├── **README.md** 
 
 ├── **report/**                        
 │ └── Project_Report.pdf                                                        
