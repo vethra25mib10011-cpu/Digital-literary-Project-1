@@ -47,6 +47,7 @@ In this task, I explored both coding practice and collaboration tools to improve
 - Practised a beginner-level coding problem  
 - Improved logical thinking and problem-solving skills  
 - Understood how coding platforms are used for skill development and placements
+
 **Hacker Rank**  https://www.hackerrank.com/profile/vethra_25mib1001
 ---
 
