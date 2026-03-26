@@ -7,19 +7,21 @@ This Digital Literacy Project aims to develop essential online skills including 
 - *Name:* Vethra M 
 - *Registration Number:* 25MIB10011
 - *Course:* CSE0001 – Digital Literacy  
-- *University:* VIT Bhopal  
+- *University:* VIT Bhopal
+
+-------
 
 ##  Repository Structure
 digital-literacy-project/                                          
 ├── README.md 
 
-├── report/                        
+├── **report/**                        
 │ └── Project_Report.pdf                                                        
 
-├── task-1-presentation/                                                                                       
+├── **task-1-presentation/**                                                                                       
 │ └── infographic.png                                                                          
 
-├── task-2-portfolio/                                                                             
+├── **task-2-portfolio/**                                                                             
 │ ├── github-profile.png                                                                    
 │ ├── linkedin-profile.png                                                                                                                                       │ 
 
@@ -27,20 +29,21 @@ digital-literacy-project/
 └── researchgate-profile.png    
 
 
-├── task-3-platforms/                                                                
+├── **task-3-platforms/**                                                              
 │ ├── hackerrank-proof.png                                                                                                                 
 │ ├── google-form.png                                                                                                                                                       
 │                                                                         
 
-├── task-4-email-etiquette/                                                                                                             
-│ ├── email-extension.txt
-│ ├── email-internship.txt                                                                                                         
+├── **task-4-email-etiquette/**                                                                                                             
+│ ├── email-extension.txt                                                                                                         
 │ └── social-media-checklist.md                                                                                                    
 
 
-└── task-5-cybercrime/                                                                               
+└── **task-5-cybercrime/**                                                                               
 ├── casestudy.md                                                                                      
-└── prevention-checklist.md                                                                                                
+└── prevention-checklist.md    
+
+--------
 
 
 ##  Task 1 – Digital Literacy Infographic
