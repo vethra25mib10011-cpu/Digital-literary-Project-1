@@ -123,9 +123,6 @@ Both emails follow proper structure, tone, and formatting.
 - Included points on privacy, respectful communication, and content sharing  
 - Highlighted the importance of maintaining a positive digital footprint  
 
-🔗 **View Checklist:** [Add File Link]
-
-
 [View Checklist](task-4-email-etiquette/social-media-checklist.md)
 
 This task helped me understand the importance of clarity, tone, and professionalism in communication.
